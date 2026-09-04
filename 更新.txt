@@ -27,7 +27,7 @@ git commit -m "add zhiblog.xyz"
 git push -u origin main
 git push -f origin main
 
-3. 如果出错，全新提交方法，
+3. 如果出错，全新提交方法，好的
 
 rm -rf .git
 git init
