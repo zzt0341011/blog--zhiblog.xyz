@@ -1,321 +1,311 @@
 ---
-
-title: "NovelPop - Popular Novels"
-description: "Read popular novels and captivating stories online at NovelPop. Discover historical fiction, horror, paranormal mysteries, time travel, detective stories, military fiction, gaming adventures, tomb raiding, urban fiction, wuxia, romance, and political intrigue."
-keywords:
-
-- popular novels
-- novels online
-- read novels online
-- popular novels online
-- best novels online
-- web novels
-- online fiction
-- English novels
-- historical fiction
-- horror novels
-- paranormal fiction
-- time travel novels
-- mystery novels
-- detective fiction
-- military fiction
-- online gaming novels
-- virtual world novels
-- tomb raiding novels
-- urban fiction
-- wuxia novels
-- martial arts novels
-- romance novels
-- emotional fiction
-- political intrigue
-- power struggle novels
-author: "NovelPop"
-publisher: "NovelPop"
-date: 2026-07-30
-lastmod: 2026-07-30
-draft: false
-robots: "index, follow"
-url: "/"
-images:
-- "/images/novelpop-home.jpg"
-
+title: "Global AI Tools Ranking, Top GitHub Projects & Popular Mobile Apps (2026)"
+description: "2026 ranking of the best AI products, most-starred GitHub open-source projects, and popular Android apps. Covers large language models, image generation, coding assistants, short video, VPN, productivity tools and more."
+type: docs
 ---
 
-# NovelPop - Popular Novels & Stories Online
-
-Welcome to **NovelPop.dev**, a destination for readers who love popular novels, engaging fiction, and unforgettable stories.
-
-Discover a growing collection of exciting novels across a wide range of genres. Whether you enjoy historical adventures, terrifying horror stories, supernatural mysteries, time-travel journeys, detective investigations, military fiction, online gaming adventures, ancient tomb mysteries, urban stories, martial arts, romance, or political intrigue, NovelPop offers stories for every kind of reader.
-
-Explore new worlds, follow unforgettable characters, uncover hidden secrets, and discover stories that keep you reading chapter after chapter.
-
-**Find your next favorite novel on NovelPop.**
-
----
-
-## Explore Popular Novels by Genre
-
-At NovelPop, you can explore a wide variety of fiction genres and discover stories that match your interests.
-
-### Historical Fiction
-
-Step into different periods of history and experience stories filled with war, culture, ambition, loyalty, adventure, and power.
-
-Historical fiction brings the past to life through memorable characters, dramatic events, political conflicts, and epic journeys. Explore stories inspired by different eras and civilizations while following characters whose lives are shaped by history.
-
-[Explore Historical Fiction](/categories/historical-fiction/)
-
----
-
-### Horror Novels
-
-Enter dark worlds filled with fear, suspense, mystery, and unexpected danger.
-
-Our horror stories explore terrifying encounters, isolated locations, psychological tension, unexplained events, and frightening mysteries. Whether you enjoy supernatural horror, psychological suspense, or dark adventures, discover stories designed to keep you turning the pages.
-
-[Explore Horror Novels](/categories/horror/)
-
----
-
-### Supernatural & Paranormal Fiction
-
-Discover stories that go beyond the ordinary.
-
-Explore mysterious encounters, ghosts, spirits, supernatural forces, strange phenomena, and unexplained events. These stories combine suspense, mystery, imagination, and the unknown to create immersive reading experiences.
-
-If you enjoy paranormal mysteries and supernatural adventures, explore this collection on NovelPop.
-
-[Explore Supernatural & Paranormal Fiction](/categories/supernatural-paranormal/)
-
----
-
-### Time Travel Novels
-
-What would happen if you could travel through time?
-
-Time-travel novels take readers across different eras and alternate timelines, allowing characters to experience the past, change their destiny, and discover unexpected futures.
-
-Explore stories about historical adventures, second chances, alternate worlds, changing destinies, and journeys through time.
-
-[Explore Time Travel Novels](/categories/time-travel/)
-
----
-
-### Mystery & Detective Fiction
-
-Put your mind to the test with fascinating mysteries and challenging investigations.
-
-Follow clever detectives and determined investigators as they uncover hidden clues, investigate suspicious events, solve complicated cases, and reveal secrets.
-
-From classic detective stories to complex modern mysteries, discover fiction filled with suspense, unexpected twists, hidden motives, and surprising revelations.
-
-[Explore Mystery & Detective Fiction](/categories/mystery-detective/)
-
----
-
-### Military Fiction
-
-Experience stories of courage, strategy, loyalty, sacrifice, and survival.
-
-Military fiction explores soldiers, commanders, battles, strategy, leadership, brotherhood, conflict, and the human cost of war.
-
-Whether you enjoy action-packed military adventures or stories focused on strategy and leadership, discover powerful tales of courage and determination.
-
-[Explore Military Fiction](/categories/military-fiction/)
-
----
-
-### Online Gaming & Virtual World Novels
-
-Enter immersive digital worlds filled with adventure, competition, strategy, and epic battles.
-
-Online gaming and virtual world novels feature powerful players, game systems, virtual reality, quests, guilds, rankings, character progression, and legendary achievements.
-
-For readers who enjoy gaming, fantasy, adventure, technology, and virtual worlds, this genre offers a unique and immersive reading experience.
-
-[Explore Online Gaming & Virtual World Novels](/categories/online-gaming/)
-
----
-
-### Tomb Raiding & Ancient Mysteries
-
-Explore forgotten places and uncover secrets buried for centuries.
-
-Tomb-raiding and ancient mystery novels take readers into mysterious tombs, ancient ruins, hidden chambers, lost civilizations, and dangerous archaeological adventures.
-
-Follow explorers and adventurers as they search for lost treasures, uncover ancient secrets, solve mysterious puzzles, and face dangers hidden beneath the earth.
-
-[Explore Tomb Raiding & Ancient Mysteries](/categories/tomb-raiding/)
-
----
-
-### Urban Fiction
-
-Discover compelling stories set in modern cities and contemporary society.
-
-Urban fiction explores ambition, relationships, careers, friendship, family, personal growth, success, struggle, revenge, and the challenges of modern life.
-
-From ordinary people facing extraordinary challenges to stories of personal transformation and unexpected success, urban novels offer compelling characters and modern adventures.
-
-[Explore Urban Fiction](/categories/urban-fiction/)
-
----
-
-### Wuxia & Martial Arts Novels
-
-Enter a legendary world of martial arts, swordplay, honor, revenge, heroes, and rivalries.
-
-Wuxia and martial arts fiction transport readers into worlds where skilled warriors travel across ancient lands, master powerful techniques, face dangerous enemies, and follow their own paths of justice and honor.
-
-Discover stories filled with legendary masters, swordsmanship, martial arts, heroic adventures, rivalries, revenge, and epic battles.
-
-[Explore Wuxia & Martial Arts Novels](/categories/wuxia-martial-arts/)
-
----
-
-### Romance & Emotional Fiction
-
-Love can change everything.
-
-Explore emotional stories about love, heartbreak, relationships, friendship, family, personal growth, and second chances.
-
-Whether you enjoy romantic adventures, dramatic relationships, emotional journeys, or stories about people searching for love and happiness, discover memorable characters and stories that stay with you long after the final chapter.
-
-[Explore Romance & Emotional Fiction](/categories/romance-emotional/)
-
----
-
-### Political Intrigue & Power Struggles
-
-Enter worlds where ambition, strategy, loyalty, and power determine everything.
-
-Political intrigue fiction explores complicated relationships between rulers, leaders, families, organizations, and powerful individuals. These stories are filled with alliances, betrayals, secret plans, strategic battles, ambition, and struggles for influence.
-
-If you enjoy intelligent characters, complex strategies, political games, and dramatic battles for power, discover this genre on NovelPop.
-
-[Explore Political Intrigue & Power Struggles](/categories/political-intrigue/)
-
----
-
-# Discover Popular Novels Online
-
-Finding a great novel should be an exciting experience.
-
-At **NovelPop.dev**, readers can explore different genres, discover new stories, and find fiction that matches their interests.
-
-Whether you are searching for a thrilling mystery, a terrifying horror story, a supernatural adventure, an emotional romance, an epic historical journey, or a story filled with political intrigue, there is always another world waiting to be explored.
-
-Start with a genre you already love, or discover something completely new.
-
----
-
-# Why Read on NovelPop?
-
-## A Wide Range of Fiction Genres
-
-NovelPop brings together a diverse collection of fiction genres in one place. From historical fiction and military adventures to horror, paranormal mysteries, romance, wuxia, and online gaming stories, readers can explore different types of novels without being limited to a single category.
-
-## Discover New Stories
-
-There is always another story waiting to be discovered.
-
-Explore different genres, find new characters, and discover novels that you may not have encountered before.
-
-## Immersive Reading Experiences
-
-Great novels allow readers to enter new worlds.
-
-Travel through history. Explore mysterious tombs. Investigate dangerous cases. Enter virtual worlds. Experience epic battles. Follow unforgettable romances.
-
-Every story offers a new journey.
-
-## Stories for Every Kind of Reader
-
-Every reader has different tastes.
-
-Some readers love mystery and suspense. Others prefer horror, romance, history, martial arts, gaming, or supernatural adventures.
-
-NovelPop makes it easier to explore different genres and discover stories that match your interests.
-
----
-
-# Find Your Next Favorite Novel
-
-Looking for a thrilling mystery?
-
-Want to read a terrifying horror story?
-
-Interested in ancient secrets and mysterious tombs?
-
-Ready to enter a world of martial arts and legendary warriors?
-
-Looking for an emotional romance?
-
-Or perhaps you want to travel through time and experience an entirely different world?
-
-Whatever kind of story you are looking for, **NovelPop.dev** is a place to discover new fiction and exciting reading adventures.
-
-Explore our genres, discover new stories, and start reading today.
-
-**Your next favorite novel may be just one chapter away.**
-
----
-
-# Popular Novel Categories
-
-Explore the most popular fiction categories on NovelPop:
-
-* [Historical Fiction](/categories/historical-fiction/)
-* [Horror Novels](/categories/horror/)
-* [Supernatural & Paranormal Fiction](/categories/supernatural-paranormal/)
-* [Time Travel Novels](/categories/time-travel/)
-* [Mystery & Detective Fiction](/categories/mystery-detective/)
-* [Military Fiction](/categories/military-fiction/)
-* [Online Gaming & Virtual World Novels](/categories/online-gaming/)
-* [Tomb Raiding & Ancient Mysteries](/categories/tomb-raiding/)
-* [Urban Fiction](/categories/urban-fiction/)
-* [Wuxia & Martial Arts Novels](/categories/wuxia-martial-arts/)
-* [Romance & Emotional Fiction](/categories/romance-emotional/)
-* [Political Intrigue & Power Struggles](/categories/political-intrigue/)
-
----
-
-# Frequently Asked Questions
-
-## What is NovelPop?
-
-**NovelPop.dev** is an online destination for readers who enjoy popular novels and fiction across a wide range of genres.
-
-Readers can explore historical fiction, horror, paranormal stories, time travel, mystery, detective fiction, military stories, online gaming adventures, tomb raiding, urban fiction, wuxia, martial arts, romance, and political intrigue.
-
-## What types of novels can I read on NovelPop?
-
-NovelPop features a diverse selection of fiction genres, including historical fiction, horror, supernatural and paranormal stories, time travel, mystery and detective fiction, military fiction, online gaming, virtual worlds, tomb raiding, urban fiction, wuxia, martial arts, romance, emotional fiction, and political intrigue.
-
-## Is NovelPop a website for online novels?
-
-Yes. NovelPop is designed for readers who enjoy discovering and reading fiction online across different genres and story styles.
-
-## Who is NovelPop for?
-
-NovelPop is for readers who enjoy discovering new stories and exploring different types of fiction. Whether you prefer action, mystery, suspense, romance, history, supernatural adventures, martial arts, or gaming stories, you can find genres that match your interests.
-
-## Can I discover new popular novels on NovelPop?
-
-NovelPop is designed to help readers explore different genres and discover new stories. Visit the genre pages to explore the latest additions and find novels that match your reading preferences.
-
-## What genres are available on NovelPop?
-
-NovelPop currently features historical fiction, horror, supernatural and paranormal fiction, time travel, mystery and detective fiction, military fiction, online gaming and virtual world stories, tomb raiding and ancient mysteries, urban fiction, wuxia and martial arts, romance and emotional fiction, and political intrigue.
-
----
-
-# Start Your Next Reading Adventure
-
-Every great story begins with a single chapter.
-
-Explore **NovelPop.dev** and discover stories filled with mystery, adventure, romance, suspense, history, supernatural encounters, martial arts, and unforgettable characters.
-
-**Read popular novels. Discover new stories. Explore endless adventures.**
-
-**NovelPop – Popular Novels. Endless Stories. New Adventures.**
+## 1. Global AI Products & Large Language Model Ranking
+
+| Rank | Name | Category | Guide |
+|------|------|----------|-------|
+| 1 | [ChatGPT](https://chat.openai.com/) | GPT | [View](https://zhiblog.xyz/zh/ai/chatgpt/) |
+| 2 | [Canva AI](https://www.canva.com/ai-image-generator/) | Image Generation | View |
+| 3 | [Google Gemini](https://gemini.google.com/app) | GPT | View |
+| 4 | [Perplexity AI](https://www.perplexity.ai/) | Search | View |
+| 5 | [Suno](https://suno.com/) | Audio Generation | View |
+| 6 | [Quillbot](https://quillbot.com/) | Writing | View |
+| 7 | [GitHub Copilot](https://github.com/features/copilot) | Coding | View |
+| 8 | [Claude](https://claude.ai/new) | GPT | [View](https://zhiblog.xyz/ai/1sj9492v/) |
+| 9 | [ElevenLabs](https://elevenlabs.io/) | Audio Generation | View |
+| 10 | [Poe](https://poe.com/login) | AI Aggregation | View |
+| 11 | [Leonardo.AI](https://leonardo.ai/) | Image Generation | View |
+| 12 | [Midjourney](https://www.midjourney.com/home) | Image Generation | View |
+| 13 | [Microsoft Copilot](https://copilot.microsoft.com/) | GPT | View |
+| 14 | [Grammarly AI](https://www.grammarly.com/ai-writing-assistant) | Writing | View |
+| 15 | [Gamma AI](https://gamma.app/) | PPT Generation | View |
+| 16 | [Cutout.pro](https://www.cutout.pro/) | Image Generation | View |
+| 17 | [Hugging Face](https://huggingface.co/) | Coding / Models | View |
+| 18 | [PIXLR](https://pixlr.com/) | Image Generation | View |
+| 19 | [Liner](https://getliner.com/) | Search | View |
+| 20 | [Photoroom](https://www.photoroom.com/) | Image Generation | View |
+| 21 | [Ideogram](https://ideogram.ai/login) | Image Generation | View |
+| 22 | [Udio](https://www.udio.com/) | Audio Generation | View |
+| 23 | [Adobe Firefly](https://www.adobe.com/products/firefly.html) | Image Generation | View |
+| 24 | [Invideo.io](https://invideo.io/) | Video Generation | View |
+| 25 | [Veed.io](https://www.veed.io/) | Video Editing | View |
+| 26 | [Pi](https://pi.ai/onboarding) | GPT | View |
+| 27 | [Blackbox](https://www.blackbox.ai/) | Coding | View |
+| 28 | [You](https://you.com/) | Search | View |
+| 29 | [Replit](https://replit.com/) | Coding | View |
+| 30 | [PicWish](https://picwish.com/) | Image Generation | View |
+| 31 | [ChatPDF](https://www.chatpdf.com/) | PDF Reading | View |
+| 32 | [FigJam AI](https://www.figma.com/figjam/ai/) | Digital Whiteboard | View |
+| 33 | [PixelCut](https://www.pixelcut.ai/) | Image Generation | View |
+| 34 | [Runway](https://runwayml.com/) | Video Generation | View |
+| 35 | [OpusClip](https://www.opus.pro/) | Video Editing | View |
+| 36 | [Playground](https://playground.com/) | Image / Coding | View |
+| 37 | [Vidnoz](https://www.vidnoz.com/) | Video Generation | View |
+| 38 | [Speechify](https://speechify.com/) | Text-to-Speech | View |
+| 39 | [NovelAI](https://novelai.net/) | Image Generation | View |
+| 40 | [Notion AI](https://www.notion.so/product/ai) | Writing Tool | View |
+| 41 | [Wix AI](https://www.wix.com/ai-website-builder) | Website Builder | View |
+| 42 | [Voicemod](https://www.voicemod.net/) | Audio Generation | View |
+| 43 | [HeyGen](https://www.heygen.com/) | Video Generation | View |
+| 44 | [Natural Readers](https://www.naturalreaders.com/) | Reading Tool | View |
+| 45 | [Otter.ai](https://otter.ai/) | Meeting Transcription | View |
+| 46 | [Stability AI](https://stability.ai/) | Image / 3D Generation | View |
+| 47 | [LogoAI](https://www.logoai.com/) | Logo Generation | View |
+| 48 | [Notta](https://www.notta.ai/en) | Meeting Transcription | View |
+| 49 | [Craiyon](https://www.craiyon.com/) | Image Generation | View |
+| 50 | [Synthesia](https://www.synthesia.io/) | Video Generation | View |
+| 51 | [Looka](https://looka.com/) | Logo Generation | View |
+| 52 | [Simplified](https://simplified.com/) | Writing Tool | View |
+| 53 | [Writesonic](https://writesonic.com/) | Writing Tool | View |
+| 54 | [PlayHT](https://play.ht/) | Text-to-Speech | View |
+| 55 | [Salesforce Einstein](https://www.salesforce.com/artificial-intelligence/) | GPT | View |
+| 56 | [Lexica](https://lexica.art/) | Image Generation | View |
+| 57 | [Media.io](https://www.media.io/) | Video Generation | View |
+| 58 | [Visme](https://www.visme.co/) | Image Generation | View |
+| 59 | [SnapEdit](https://snapedit.app/) | Image Generation | View |
+| 60 | [Phind](https://www.phind.com/search?home=true) | Coding Search | View |
+| 61 | [Tome](https://tome.app/) | Design Tool | View |
+| 62 | [Typeset](https://www.typeset.com/) | Writing Tool | View |
+| 63 | [Kapwing](https://www.kapwing.com/) | Video Generation | View |
+| 64 | [Consensus](https://consensus.app/) | Search Tool | View |
+| 65 | [Mistral Le Chat](https://chat.mistral.ai/chat) | GPT | View |
+| 66 | [Fliki](https://fliki.ai/) | Video Generation | View |
+| 67 | [Tactiq](https://tactiq.io/) | Meeting Transcription | View |
+| 68 | [Remini](https://remini.ai/) | Image Generation | View |
+| 69 | [Riverside](https://riverside.fm/) | Transcription Tool | View |
+| 70 | [Pika](https://pika.art/home) | Video Generation | [View](https://zhiblog.xyz/ai/6sj9392v/) |
+| 71 | [Descript](https://www.descript.com/) | Transcription Tool | View |
+| 72 | [Replicate](https://replicate.com/) | AI Aggregation | View |
+| 73 | [Asana AI](https://asana.com/) | Project Management | View |
+| 74 | [Wordtune](https://www.wordtune.com/) | Writing Tool | View |
+| 75 | [Copy.ai](https://www.copy.ai/) | Writing Tool | View |
+| 76 | [CleanUp](https://apps.apple.com/us/app/cleanup-phone-storage-cleaner/id1510944943) | Watermark Removal | View |
+| 77 | [Miro Assist](https://miro.com/ai/) | Whiteboard Tool | View |
+| 78 | [Soundraw](https://soundraw.io/) | Music Creation | View |
+| 79 | [Murf](https://murf.ai/) | Audio Generation | View |
+| 80 | [Humata](https://www.humata.ai/) | Reading Tool | View |
+| 81 | [BigJPG](https://bigjpg.com/) | Image Upscaling | View |
+| 82 | [Jasper AI](https://www.jasper.ai/) | Writing Tool | View |
+| 83 | [FlexClip AI](https://www.flexclip.com/) | Video Generation | View |
+| 84 | [Zendesk AI](https://www.zendesk.com/service/ai/) | Customer Service | View |
+| 85 | [Writer.com](https://writer.com/) | Writing Tool | View |
+| 86 | [Motion](https://www.motion.ai/) | Animation Generation | View |
+| 87 | [Pictory](https://pictory.ai/) | Text-to-Video | View |
+| 88 | [Monday AI](https://monday.com/w/ai) | Project Management | View |
+| 89 | [Autodraw](https://www.autodraw.com/) | Image Generation | View |
+| 90 | [ClickUp Brain](https://clickup.com/ai) | Project Management | View |
+| 91 | [Fireflies](https://fireflies.ai/) | Transcription Tool | View |
+| 92 | [Vance AI](https://vanceai.com/) | Image Generation | View |
+| 93 | [Filmora](https://filmora.wondershare.com/) | Video Generation | View |
+| 94 | [Squarespace](https://www.squarespace.com/) | Website Builder | View |
+| 95 | [ProWritingAid](https://prowritingaid.com/) | Writing Tool | View |
+| 96 | [Krisp](https://krisp.ai/) | Audio Processing | View |
+| 97 | [Durable](https://durable.co/) | Website Builder | View |
+| 98 | [Designs AI](https://designs.ai/) | Image Generation | View |
+| 99 | [Zoho Zia](https://www.zoho.com/zia/) | Productivity Tool | View |
+| 100 | [Codeium](https://codeium.com/) | Coding Tool | View |
+
+## 2. Top GitHub Projects by Stars
+
+| Rank | GitHub Project | Stars | Main Purpose | Language |
+|------|----------------|-------|--------------|----------|
+| 1 | [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 552,148 | Learn by building technologies from scratch | Markdown |
+| 2 | [awesome](https://github.com/sindresorhus/awesome) | 516,349 | Curated lists of high-quality resources | Various |
+| 3 | [public-apis](https://github.com/public-apis/public-apis) | 486,892 | Free public API directory | Python |
+| 4 | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 456,934 | Free programming education platform | TypeScript |
+| 5 | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 398,694 | Free programming books collection | Various |
+| 6 | [system-design-primer](https://github.com/donnemartin/system-design-primer) | 373,596 | System design and interview guide | Python |
+| 7 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) | 369,149 | Developer learning roadmaps | TypeScript |
+| 8 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 362,519 | Software engineer study plan | Various |
+| 9 | [awesome-python](https://github.com/vinta/awesome-python) | 326,015 | Python resources collection | Python |
+| 10 | [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 324,801 | Self-hosted software and services | Various |
+| 11 | [project-based-learning](https://github.com/practical-tutorials/project-based-learning) | 286,254 | Project-based learning tutorials | Python |
+| 12 | [996.ICU](https://github.com/996icu/996.ICU) | 277,276 | Labor rights related project | Various |
+| 13 | [linux](https://github.com/torvalds/linux) | 251,447 | Linux kernel | C |
+| 14 | [react](https://github.com/facebook/react) | 250,941 | Web UI library | JavaScript |
+| 15 | [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | 248,662 | Ops, CLI and security knowledge | Various |
+| 16 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | 225,283 | Python algorithms implementation | Python |
+| 17 | [vue](https://github.com/vuejs/vue) | 212,813 | Vue frontend framework | TypeScript |
+| 18 | [computer-science](https://github.com/ossu/computer-science) | 209,982 | Free computer science curriculum | HTML |
+| 19 | [n8n](https://github.com/n8n-io/n8n) | 206,883 | Workflow automation and AI integration | TypeScript |
+| 20 | [tensorflow](https://github.com/tensorflow/tensorflow) | 200,748 | Machine learning framework | C++ |
+| 21 | [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 196,854 | JavaScript algorithms and data structures | JavaScript |
+| 22 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 196,315 | Video and audio downloader | Python |
+| 23 | [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | 193,761 | Windows and Office activation scripts | Batch |
+| 24 | [vscode](https://github.com/microsoft/vscode) | 193,658 | Visual Studio Code editor | TypeScript |
+| 25 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 190,230 | Zsh configuration framework | Shell |
+| 26 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,697 | AI autonomous agent | Python |
+| 27 | [awesome-go](https://github.com/avelino/awesome-go) | 187,495 | Go language resources | Go |
+| 28 | [Python-100-Days](https://github.com/jackfrued/Python-100-Days) | 187,154 | Python 100-day learning tutorial | Jupyter Notebook |
+| 29 | [CS-Notes](https://github.com/CyC2018/CS-Notes) | 186,403 | Computer science and interview notes | Various |
+| 30 | [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | 185,000 | Deep dive into JavaScript | Various |
+| 31 | [ollama](https://github.com/ollama/ollama) | 182,559 | Run large language models locally | Go |
+| 32 | [HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 180,777 | Interesting open-source project recommendations | Python |
+| 33 | [flutter](https://github.com/flutter/flutter) | 179,372 | Cross-platform app development framework | Dart |
+| 34 | [gitignore](https://github.com/github/gitignore) | 176,046 | Git ignore file templates | Various |
+| 35 | [bootstrap](https://github.com/twbs/bootstrap) | 175,002 | Responsive frontend UI framework | Various |
+| 36 | [transformers](https://github.com/huggingface/transformers) | 167,054 | Pretrained AI models library | Python |
+| 37 | [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | 165,215 | Stable Diffusion image generation interface | Python |
+| 38 | [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | 162,593 | Command-line practical guide | Various |
+| 39 | [JavaGuide](https://github.com/Snailclimb/JavaGuide) | 159,091 | Java interview and backend knowledge | Various |
+| 40 | [dify](https://github.com/langgenius/dify) | 158,099 | AI application and workflow platform | TypeScript |
+| 41 | [langflow](https://github.com/langflow-ai/langflow) | 155,586 | Visual AI workflow builder | Python |
+| 42 | [open-webui](https://github.com/open-webui/open-webui) | 154,212 | Local and remote LLM web interface | Python |
+| 43 | [scrcpy](https://github.com/Genymobile/scrcpy) | 151,684 | Display and control Android devices | C |
+| 44 | [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 149,930 | Cross-platform proxy client | Rust |
+
+## 3. Popular Mobile Apps Ranking (Google Play)
+
+### Network Tools, Browsers & Privacy (76–100)
+
+| Rank | App Name | Main Use | Google Play |
+|------|----------|----------|-------------|
+| 76 | 1.1.1.1 + WARP | DNS and network tool | [View](https://play.google.com/store/search?q=1.1.1.1%20WARP&c=apps) |
+| 77 | Proton VPN | VPN service | [View](https://play.google.com/store/search?q=Proton%20VPN&c=apps) |
+| 78 | NordVPN | VPN service | [View](https://play.google.com/store/search?q=NordVPN&c=apps) |
+| 79 | ExpressVPN | VPN service | [View](https://play.google.com/store/search?q=ExpressVPN&c=apps) |
+| 80 | Surfshark VPN | VPN service | [View](https://play.google.com/store/search?q=Surfshark%20VPN&c=apps) |
+| 81 | Mullvad VPN | Privacy network service | [View](https://play.google.com/store/search?q=Mullvad%20VPN&c=apps) |
+| 82 | Windscribe VPN | VPN service | [View](https://play.google.com/store/search?q=Windscribe&c=apps) |
+| 83 | Brave Browser | Privacy browser | [View](https://play.google.com/store/search?q=Brave%20Browser&c=apps) |
+| 84 | Firefox | Web browser | [View](https://play.google.com/store/search?q=Firefox&c=apps) |
+| 85 | Opera Browser | Web browser | [View](https://play.google.com/store/search?q=Opera%20Browser&c=apps) |
+| 86 | Vivaldi Browser | Customizable browser | [View](https://play.google.com/store/search?q=Vivaldi%20Browser&c=apps) |
+| 87 | DuckDuckGo Browser | Privacy browsing and search | [View](https://play.google.com/store/search?q=DuckDuckGo&c=apps) |
+| 88 | Tor Browser | Privacy browsing | [View](https://play.google.com/store/search?q=Tor%20Browser&c=apps) |
+| 89 | Aloha Browser | Privacy browsing and media | [View](https://play.google.com/store/search?q=Aloha%20Browser&c=apps) |
+| 90 | AdGuard | Ad blocking and privacy | [View](https://play.google.com/store/search?q=AdGuard&c=apps) |
+| 91 | Bitwarden | Password manager | [View](https://play.google.com/store/search?q=Bitwarden&c=apps) |
+| 92 | 1Password | Password manager | [View](https://play.google.com/store/search?q=1Password&c=apps) |
+| 93 | Proton Mail | Email and privacy | [View](https://play.google.com/store/search?q=Proton%20Mail&c=apps) |
+| 94 | Google Authenticator | Two-factor authentication | [View](https://play.google.com/store/search?q=Google%20Authenticator&c=apps) |
+| 95 | Microsoft Authenticator | Two-factor authentication | [View](https://play.google.com/store/search?q=Microsoft%20Authenticator&c=apps) |
+| 96 | Authy | Two-factor authentication | [View](https://play.google.com/store/search?q=Authy&c=apps) |
+| 97 | Fing | Network device scanner | [View](https://play.google.com/store/search?q=Fing%20Network%20Tools&c=apps) |
+| 98 | WiFiman | Wi-Fi and network diagnostics | [View](https://play.google.com/store/search?q=WiFiman&c=apps) |
+| 99 | Termux | Android terminal and Linux tools | [View](https://play.google.com/store/search?q=Termux&c=apps) |
+| 100 | KDE Connect | Phone and computer connectivity | [View](https://play.google.com/store/search?q=KDE%20Connect&c=apps) |
+
+### Office, Development & Productivity (101–125)
+
+| Rank | App Name | Main Use | Google Play |
+|------|----------|----------|-------------|
+| 101 | Notion | Notes and project management | [View](https://play.google.com/store/search?q=Notion&c=apps) |
+| 102 | Evernote | Notes and information organization | [View](https://play.google.com/store/search?q=Evernote&c=apps) |
+| 103 | Obsidian | Local knowledge base | [View](https://play.google.com/store/search?q=Obsidian&c=apps) |
+| 104 | Microsoft OneNote | Digital notes | [View](https://play.google.com/store/search?q=OneNote&c=apps) |
+| 105 | Google Keep | Notes and lists | [View](https://play.google.com/store/search?q=Google%20Keep&c=apps) |
+| 106 | Todoist | Task management | [View](https://play.google.com/store/search?q=Todoist&c=apps) |
+| 107 | TickTick | To-do and schedule management | [View](https://play.google.com/store/search?q=TickTick&c=apps) |
+| 108 | Trello | Kanban project management | [View](https://play.google.com/store/search?q=Trello&c=apps) |
+| 109 | Asana | Team task management | [View](https://play.google.com/store/search?q=Asana&c=apps) |
+| 110 | ClickUp | Project and task management | [View](https://play.google.com/store/search?q=ClickUp&c=apps) |
+| 111 | Slack | Team communication | [View](https://play.google.com/store/search?q=Slack&c=apps) |
+| 112 | Microsoft Teams | Team collaboration and meetings | [View](https://play.google.com/store/search?q=Microsoft%20Teams&c=apps) |
+| 113 | Zoom Workplace | Video conferencing | [View](https://play.google.com/store/search?q=Zoom%20Workplace&c=apps) |
+| 114 | Google Meet | Video conferencing | [View](https://play.google.com/store/search?q=Google%20Meet&c=apps) |
+| 115 | Dropbox | Cloud file storage | [View](https://play.google.com/store/search?q=Dropbox&c=apps) |
+| 116 | Google Drive | Cloud storage and file sharing | [View](https://play.google.com/store/search?q=Google%20Drive&c=apps) |
+| 117 | Microsoft OneDrive | Cloud storage | [View](https://play.google.com/store/search?q=OneDrive&c=apps) |
+| 118 | Microsoft 365 Copilot | Office and AI assistant | [View](https://play.google.com/store/search?q=Microsoft%20365&c=apps) |
+| 119 | Adobe Acrobat Reader | PDF reading and editing | [View](https://play.google.com/store/search?q=Adobe%20Acrobat%20Reader&c=apps) |
+| 120 | Xodo PDF | PDF reading and annotation | [View](https://play.google.com/store/search?q=Xodo%20PDF&c=apps) |
+| 121 | GitHub | Code hosting and collaboration | [View](https://play.google.com/store/search?q=GitHub&c=apps) |
+| 122 | Acode | Android code editor | [View](https://play.google.com/store/search?q=Acode%20Editor&c=apps) |
+| 123 | Termius | SSH and server management | [View](https://play.google.com/store/search?q=Termius&c=apps) |
+| 124 | JuiceSSH | SSH terminal client | [View](https://play.google.com/store/search?q=JuiceSSH&c=apps) |
+| 125 | ConnectBot | SSH client | [View](https://play.google.com/store/search?q=ConnectBot&c=apps) |
+
+### Shopping, Payment & Finance (126–150)
+
+| Rank | App Name | Main Use | Google Play |
+|------|----------|----------|-------------|
+| 126 | Amazon Shopping | Online shopping | [View](https://play.google.com/store/search?q=Amazon%20Shopping&c=apps) |
+| 127 | AliExpress | Cross-border shopping | [View](https://play.google.com/store/search?q=AliExpress&c=apps) |
+| 128 | Temu | Cross-border e-commerce | [View](https://play.google.com/store/search?q=Temu&c=apps) |
+| 129 | eBay | Auction and shopping | [View](https://play.google.com/store/search?q=eBay&c=apps) |
+| 130 | SHEIN | Fashion shopping | [View](https://play.google.com/store/search?q=SHEIN&c=apps) |
+| 131 | Etsy | Handmade and unique goods | [View](https://play.google.com/store/search?q=Etsy&c=apps) |
+| 132 | Walmart | Retail and shopping | [View](https://play.google.com/store/search?q=Walmart&c=apps) |
+| 133 | Shopee | Southeast Asia e-commerce | [View](https://play.google.com/store/search?q=Shopee&c=apps) |
+| 134 | Lazada | Southeast Asia e-commerce | [View](https://play.google.com/store/search?q=Lazada&c=apps) |
+| 135 | PayPal | Online payment | [View](https://play.google.com/store/search?q=PayPal&c=apps) |
+| 136 | Wise | International money transfer | [View](https://play.google.com/store/search?q=Wise&c=apps) |
+| 137 | Revolut | Digital financial services | [View](https://play.google.com/store/search?q=Revolut&c=apps) |
+| 138 | Skrill | Online payment | [View](https://play.google.com/store/search?q=Skrill&c=apps) |
+| 139 | Payoneer | Cross-border payments | [View](https://play.google.com/store/search?q=Payoneer&c=apps) |
+| 140 | Cash App | Payment and financial services | [View](https://play.google.com/store/search?q=Cash%20App&c=apps) |
+| 141 | Venmo | Social payments | [View](https://play.google.com/store/search?q=Venmo&c=apps) |
+| 142 | Coinbase | Cryptocurrency services | [View](https://play.google.com/store/search?q=Coinbase&c=apps) |
+| 143 | Binance | Cryptocurrency services | [View](https://play.google.com/store/search?q=Binance&c=apps) |
+| 144 | Kraken | Cryptocurrency services | [View](https://play.google.com/store/search?q=Kraken&c=apps) |
+| 145 | TradingView | Financial charts and analysis | [View](https://play.google.com/store/search?q=TradingView&c=apps) |
+| 146 | MetaTrader 4 | Forex and CFD trading | [View](https://play.google.com/store/search?q=MetaTrader%204&c=apps) |
+| 147 | MetaTrader 5 | Multi-market trading terminal | [View](https://play.google.com/store/search?q=MetaTrader%205&c=apps) |
+| 148 | Investing.com | Financial news and quotes | [View](https://play.google.com/store/search?q=Investing.com&c=apps) |
+| 149 | Yahoo Finance | Stocks and financial news | [View](https://play.google.com/store/search?q=Yahoo%20Finance&c=apps) |
+| 150 | Google Finance | Financial market information | [View](https://play.google.com/store/search?q=Google%20Finance&c=apps) |
+
+### Travel, Maps, Lifestyle & Health (151–175)
+
+| Rank | App Name | Main Use | Google Play |
+|------|----------|----------|-------------|
+| 151 | Google Maps | Maps and navigation | [View](https://play.google.com/store/search?q=Google%20Maps&c=apps) |
+| 152 | Waze | Real-time traffic and navigation | [View](https://play.google.com/store/search?q=Waze&c=apps) |
+| 153 | Google Earth | Satellite maps and earth view | [View](https://play.google.com/store/search?q=Google%20Earth&c=apps) |
+| 154 | Organic Maps | Offline maps | [View](https://play.google.com/store/search?q=Organic%20Maps&c=apps) |
+| 155 | OsmAnd | Open-source maps and navigation | [View](https://play.google.com/store/search?q=OsmAnd&c=apps) |
+| 156 | Flightradar24 | Real-time flight tracking | [View](https://play.google.com/store/search?q=Flightradar24&c=apps) |
+| 157 | FlightAware | Flight tracking | [View](https://play.google.com/store/search?q=FlightAware&c=apps) |
+| 158 | Booking.com | Hotel and accommodation booking | [View](https://play.google.com/store/search?q=Booking.com&c=apps) |
+| 159 | Airbnb | Vacation rentals | [View](https://play.google.com/store/search?q=Airbnb&c=apps) |
+| 160 | Expedia | Travel and hotel booking | [View](https://play.google.com/store/search?q=Expedia&c=apps) |
+| 161 | Skyscanner | Flight comparison | [View](https://play.google.com/store/search?q=Skyscanner&c=apps) |
+| 162 | Trip.com | Flight and hotel booking | [View](https://play.google.com/store/search?q=Trip.com&c=apps) |
+| 163 | Uber | Ride-hailing | [View](https://play.google.com/store/search?q=Uber&c=apps) |
+| 164 | Bolt | Ride-hailing | [View](https://play.google.com/store/search?q=Bolt&c=apps) |
+| 165 | Grab | Southeast Asia mobility and services | [View](https://play.google.com/store/search?q=Grab&c=apps) |
+| 166 | Strava | Running and cycling tracking | [View](https://play.google.com/store/search?q=Strava&c=apps) |
+| 167 | Nike Run Club | Running training | [View](https://play.google.com/store/search?q=Nike%20Run%20Club&c=apps) |
+| 168 | Fitbit | Fitness and health tracking | [View](https://play.google.com/store/search?q=Fitbit&c=apps) |
+| 169 | Flo | Women's health tracking | [View](https://play.google.com/store/search?q=Flo%20Health&c=apps) |
+| 170 | MyFitnessPal | Diet and nutrition tracking | [View](https://play.google.com/store/search?q=MyFitnessPal&c=apps) |
+| 171 | YAZIO | Diet and calorie management | [View](https://play.google.com/store/search?q=YAZIO&c=apps) |
+| 172 | Calm | Meditation and sleep | [View](https://play.google.com/store/search?q=Calm&c=apps) |
+| 173 | Headspace | Meditation and mindfulness | [View](https://play.google.com/store/search?q=Headspace&c=apps) |
+| 174 | Sleep Cycle | Sleep tracking | [View](https://play.google.com/store/search?q=Sleep%20Cycle&c=apps) |
+| 175 | AllTrails | Hiking and outdoor trails | [View](https://play.google.com/store/search?q=AllTrails&c=apps) |
+
+### Popular Games (176–200)
+
+| Rank | App Name | Genre | Google Play |
+|------|----------|-------|-------------|
+| 176 | Roblox | User-generated game platform | [View](https://play.google.com/store/search?q=Roblox&c=apps) |
+| 177 | Minecraft | Sandbox building | [View](https://play.google.com/store/search?q=Minecraft&c=apps) |
+| 178 | PUBG MOBILE | Battle royale shooter | [View](https://play.google.com/store/search?q=PUBG%20MOBILE&c=apps) |
+| 179 | Call of Duty: Mobile | Shooter | [View](https://play.google.com/store/search?q=Call%20of%20Duty%20Mobile&c=apps) |
+| 180 | Free Fire | Battle royale shooter | [View](https://play.google.com/store/search?q=Free%20Fire&c=apps) |
+| 181 | Brawl Stars | Multiplayer arena | [View](https://play.google.com/store/search?q=Brawl%20Stars&c=apps) |
+| 182 | Clash of Clans | Strategy and base building | [View](https://play.google.com/store/search?q=Clash%20of%20Clans&c=apps) |
+| 183 | Clash Royale | Strategy card battle | [View](https://play.google.com/store/search?q=Clash%20Royale&c=apps) |
+| 184 | Subway Surfers | Endless runner | [View](https://play.google.com/store/search?q=Subway%20Surfers&c=apps) |
+| 185 | Candy Crush Saga | Match-3 puzzle | [View](https://play.google.com/store/search?q=Candy%20Crush%20Saga&c=apps) |
+| 186 | Royal Match | Match-3 puzzle | [View](https://play.google.com/store/search?q=Royal%20Match&c=apps) |
+| 187 | Block Blast! | Block puzzle | [View](https://play.google.com/store/search?q=Block%20Blast&c=apps) |
+| 188 | MONOPOLY GO! | Casual board game | [View](https://play.google.com/store/search?q=MONOPOLY%20GO&c=apps) |
+| 189 | Pokémon GO | AR collection and exploration | [View](https://play.google.com/store/search?q=Pokemon%20GO&c=apps) |
+| 190 | Pokémon TCG Pocket | Digital trading card game | [View](https://play.google.com/store/search?q=Pokemon%20TCG%20Pocket&c=apps) |
+| 191 | Genshin Impact | Open-world action RPG | [View](https://play.google.com/store/search?q=Genshin%20Impact&c=apps) |
+| 192 | Honkai: Star Rail | Turn-based RPG | [View](https://play.google.com/store/search?q=Honkai%20Star%20Rail&c=apps) |
+| 193 | Mobile Legends: Bang Bang | MOBA | [View](https://play.google.com/store/search?q=Mobile%20Legends%20Bang%20Bang&c=apps) |
+| 194 | EA SPORTS FC Mobile | Football / soccer | [View](https://play.google.com/store/search?q=EA%20SPORTS%20FC%20Mobile&c=apps) |
+| 195 | Asphalt Legends | Racing | [View](https://play.google.com/store/search?q=Asphalt%20Legends&c=apps) |
+| 196 | Hill Climb Racing 2 | Casual racing | [View](https://play.google.com/store/search?q=Hill%20Climb%20Racing%202&c=apps) |
+| 197 | Plants vs. Zombies 2 | Tower defense | [View](https://play.google.com/store/search?q=Plants%20vs%20Zombies%202&c=apps) |
+| 198 | Stardew Valley | Farming simulation | [View](https://play.google.com/store/search?q=Stardew%20Valley&c=apps) |
+| 199 | Geometry Dash | Rhythm and platformer | [View](https://play.google.com/store/search?q=Geometry%20Dash&c=apps) |
+| 200 | Among Us | Multiplayer social deduction | [View](https://play.google.com/store/search?q=Among%20Us&c=apps) |
