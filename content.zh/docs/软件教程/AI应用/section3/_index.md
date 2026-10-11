@@ -1,7 +1,6 @@
 ---
-title: "如何订阅 Midjourney 套餐完整教程（含 VPN 与付款方法）"
+title: "Midjourney"
 description: "详细图文教程：介绍 Midjourney 功能，如何使用 VPN 访问官网，并通过 Discord 完成 Midjourney 套餐订阅与付款。包含虚拟信用卡推荐，适合中国大陆用户。"
-bookCollapseSection: true
 ---
 
 ## Midjourney 介绍和功能
