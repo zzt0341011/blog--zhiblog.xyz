@@ -1,6 +1,7 @@
 ---
 title: "如何使用 ChatGPT 并开通 Plus 会员完整教程"
 description: "详细介绍 ChatGPT 为什么受欢迎、使用场景、功能与技巧，以及在中国大陆如何通过虚拟信用卡开通 ChatGPT Plus 的完整步骤。"
+bookCollapseSection: true
 ---
 
 ## 人们为什么喜欢 ChatGPT？
