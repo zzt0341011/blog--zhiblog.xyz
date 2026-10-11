@@ -8,7 +8,7 @@ type: docs
 
 | 序号 | 名称 | 细分领域 | 使用方法 |
 |----|-----|-----|-----|
-| 1 | [ChatGPT](https://chat.openai.com/) | GPT | [点击查看](https://zhiblog.xyz/zh/ai/chatgpt/) |
+| 1 | [ChatGPT](https://chat.openai.com/) | GPT | [点击查看](https://zhiblog.xyz/zh/docs/软件教程/AI应用/如何使用-ChatGPT-并开通-Plus-会员完整教程/) |
 | 2 | [Canva AI](https://www.canva.com/ai-image-generator/) | 图片生成 | 点击查看 |
 | 3 | [Google Gemini](https://gemini.google.com/app) | GPT | 点击查看 |
 | 4 | [Perplexity AI](https://www.perplexity.ai/) | 搜索 | 点击查看 |
@@ -19,7 +19,7 @@ type: docs
 | 9 | [ElevenLabs](https://elevenlabs.io/) | 音频生成 | 点击查看 |
 | 10 | [Poe](https://poe.com/login) | AI聚合 | 点击查看 |
 | 11 | [Leonardo.AI](https://leonardo.ai/) | 图片生成 | 点击查看 |
-| 12 | [Midjourney](https://www.midjourney.com/home) | 图片生成 | 点击查看 |
+| 12 | [Midjourney](https://www.midjourney.com/home) | 图片生成 | [点击查看](https://zhiblog.xyz/zh/docs/软件教程/AI应用/如何订阅-Midjourney-套餐完整教程含-VPN-与付款方法/) |
 | 13 | [Microsoft Copilot](https://copilot.microsoft.com/) | GPT | 点击查看 |
 | 14 | [Grammarly AI](https://www.grammarly.com/ai-writing-assistant) | 写作 | 点击查看 |
 | 15 | [Gamma AI](https://gamma.app/) | PPT生成 | 点击查看 |
