@@ -29,7 +29,6 @@ draft: false
 robots: "index, follow"
 url: "/paranormal-fiction/"
 bookCollapseSection: true
-
 ---
 
 # Paranormal Fiction Novels
