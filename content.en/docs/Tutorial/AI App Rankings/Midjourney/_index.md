@@ -1,6 +1,7 @@
 ---
 title: "How to Subscribe to Midjourney Plans – Complete Guide with VPN & Payment"
 description: "Step-by-step tutorial on Midjourney features, how to access the site with a VPN, and how to subscribe and pay for Midjourney plans via Discord. Includes virtual credit card recommendation for users in restricted regions."
+bookCollapseSection: true
 ---
 
 ## Midjourney Introduction and Features
