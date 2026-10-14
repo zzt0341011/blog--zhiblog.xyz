@@ -1,5 +1,5 @@
 ---
-title: "How to Use ChatGPT and Upgrade to Plus – Complete Guide"
+title: "ChatGPT"
 description: "Learn why ChatGPT is so popular, its main use cases, key features and tips, plus a step-by-step guide on how to subscribe to ChatGPT Plus with a virtual credit card from restricted regions."
 bookCollapseSection: true
 ---
