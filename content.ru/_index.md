@@ -6,108 +6,108 @@ type: docs
 
 ## 1. Рейтинг больших языковых моделей / AI-продуктов
 
-| № | Название | Область | Способ использования |
-| --- | --- | --- | --- |
-| 1 | [ChatGPT](https://chat.openai.com/) | GPT | [Посмотреть](https://zhiblog.xyz/zh/ai/chatgpt/) |
-| 2 | [Canva AI](https://www.canva.com/ai-image-generator/) | Генерация изображений | Посмотреть |
-| 3 | [Google Gemini](https://gemini.google.com/app) | GPT | Посмотреть |
-| 4 | [Perplexity AI](https://www.perplexity.ai/) | Поиск | Посмотреть |
-| 5 | [Suno](https://suno.com/) | Генерация аудио | Посмотреть |
-| 6 | [Quillbot](https://quillbot.com/) | Написание текстов | Посмотреть |
-| 7 | [GitHub Copilot](https://github.com/features/copilot) | Программирование | Посмотреть |
-| 8 | [Claude](https://claude.ai/new) | GPT | [Посмотреть](https://zhiblog.xyz/ai/1sj9492v/) |
-| 9 | [ElevenLabs](https://elevenlabs.io/) | Генерация аудио | Посмотреть |
-| 10 | [Poe](https://poe.com/login) | Агрегатор AI | Посмотреть |
-| 11 | [Leonardo.AI](https://leonardo.ai/) | Генерация изображений | Посмотреть |
-| 12 | [Midjourney](https://www.midjourney.com/home) | Генерация изображений | Посмотреть |
-| 13 | [Microsoft Copilot](https://copilot.microsoft.com/) | GPT | Посмотреть |
-| 14 | [Grammarly AI](https://www.grammarly.com/ai-writing-assistant) | Написание текстов | Посмотреть |
-| 15 | [Gamma AI](https://gamma.app/) | Генерация презентаций | Посмотреть |
-| 16 | [Cutout.pro](https://www.cutout.pro/) | Генерация изображений | Посмотреть |
-| 17 | [Hugging Face](https://huggingface.co/) | Программирование | Посмотреть |
-| 18 | [PIXLR](https://pixlr.com/) | Генерация изображений | Посмотреть |
-| 19 | [Liner](https://getliner.com/) | Поиск | Посмотреть |
-| 20 | [Photoroom](https://www.photoroom.com/) | Генерация изображений | Посмотреть |
-| 21 | [ideogram](https://ideogram.ai/login) | Генерация изображений | Посмотреть |
-| 22 | [Udio](https://www.udio.com/) | Генерация аудио | Посмотреть |
-| 23 | [Adobe Firefly](https://www.adobe.com/products/firefly.html) | Генерация изображений | Посмотреть |
-| 24 | [Invideo.io](https://invideo.io/) | Генерация видео | Посмотреть |
-| 25 | [Veed.io](https://www.veed.io/) | Редактирование видео | Посмотреть |
-| 26 | [Pi](https://pi.ai/onboarding) | GPT | Посмотреть |
-| 27 | [Blackbox](https://www.blackbox.ai/) | Программирование | Посмотреть |
-| 28 | [You](https://you.com/) | Поиск | Посмотреть |
-| 29 | [Replit](https://replit.com/) | Программирование | Посмотреть |
-| 30 | [PicWish](https://picwish.com/) | Генерация изображений | Посмотреть |
-| 31 | [ChatPDF](https://www.chatpdf.com/) | Чтение PDF | Посмотреть |
-| 32 | [FigJam AI](https://www.figma.com/figjam/ai/) | Цифровая доска | Посмотреть |
-| 33 | [PixelCut](https://www.pixelcut.ai/) | Генерация изображений | Посмотреть |
-| 34 | [Runway](https://runwayml.com/) | Генерация видео | Посмотреть |
-| 35 | [OpusClip](https://www.opus.pro/) | Монтаж видео | Посмотреть |
-| 36 | [Playground](https://playground.com/) | Программирование | Посмотреть |
-| 37 | [Vidnoz](https://www.vidnoz.com/) | Генерация видео | Посмотреть |
-| 38 | [Speechify](https://speechify.com/) | Генерация речи | Посмотреть |
-| 39 | [NovelAI](https://novelai.net/) | Генерация изображений | Посмотреть |
-| 40 | [Notion AI](https://www.notion.so/zh-cn/product/ai) | Инструмент для письма | Посмотреть |
-| 41 | [Wix AI](https://www.wix.com/ai-website-builder) | Генерация сайтов | Посмотреть |
-| 42 | [Voicemod](https://www.voicemod.net/) | Генерация аудио | Посмотреть |
-| 43 | [HeyGen](https://www.heygen.com/) | Генерация видео | Посмотреть |
-| 44 | [Natural Readers](https://www.naturalreaders.com/) | Инструмент чтения | Посмотреть |
-| 45 | [Otter.ai](https://otter.ai/) | Запись встреч | Посмотреть |
-| 46 | [Stability AI](https://stability.ai/) | 3D / генерация изображений | Посмотреть |
-| 47 | [LogoAI](https://www.logoai.com/) | Генерация логотипов | Посмотреть |
-| 48 | [Notta](https://www.notta.ai/en) | Запись встреч | Посмотреть |
-| 49 | [Craiyon](https://www.craiyon.com/) | Генерация изображений | Посмотреть |
-| 50 | [Synthesia](https://www.synthesia.io/) | Генерация видео | Посмотреть |
-| 51 | [Looka](https://looka.com/) | Генерация логотипов | Посмотреть |
-| 52 | [Simplified](https://simplified.com/) | Инструмент для письма | Посмотреть |
-| 53 | [Writesonic](https://writesonic.com/) | Инструмент для письма | Посмотреть |
-| 54 | [PlayHT](https://play.ht/) | Генерация речи | Посмотреть |
-| 55 | [Salesforce Einstein](https://www.salesforce.com/artificial-intelligence/) | GPT | Посмотреть |
-| 56 | [Lexica](https://lexica.art/) | Генерация изображений | Посмотреть |
-| 57 | [Media.io](https://www.media.io/) | Генерация видео | Посмотреть |
-| 58 | [Visme](https://www.visme.co/) | Генерация изображений | Посмотреть |
-| 59 | [SnapEdit](https://snapedit.app/) | Генерация изображений | Посмотреть |
-| 60 | [Phind](https://www.phind.com/search?home=true) | Поиск по программированию | Посмотреть |
-| 61 | [Tome](https://tome.app/) | Инструмент дизайна | Посмотреть |
-| 62 | [Typeset](https://www.typeset.com/) | Текстовый инструмент | Посмотреть |
-| 63 | [Kapwing](https://www.kapwing.com/) | Генерация видео | Посмотреть |
-| 64 | [Consensus](https://consensus.app/) | Поисковый инструмент | Посмотреть |
-| 65 | [Mistral Le Chat](https://chat.mistral.ai/chat) | GPT | Посмотреть |
-| 66 | [Fliki](https://fliki.ai/) | Генерация видео | Посмотреть |
-| 67 | [Tactiq](https://tactiq.io/) | Запись встреч | Посмотреть |
-| 68 | [Remini](https://remini.ai/) | Генерация изображений | Посмотреть |
-| 69 | [Riverside](https://riverside.fm/) | Инструмент транскрипции | Посмотреть |
-| 70 | [Pika](https://pika.art/home) | Генерация видео | [Посмотреть](https://zhiblog.xyz/ai/6sj9392v/) |
-| 71 | [Descript](https://www.descript.com/) | Инструмент транскрипции | Посмотреть |
-| 72 | [Replicate](https://replicate.com/) | Агрегатор | Посмотреть |
-| 73 | [Asana AI](https://asana.com/) | Управление проектами | Посмотреть |
-| 74 | [Wordtune](https://www.wordtune.com/) | Инструмент для письма | Посмотреть |
-| 75 | [Copy.ai](https://www.copy.ai/) | Инструмент для письма | Посмотреть |
-| 76 | [CleanUp](https://apps.apple.com/us/app/cleanup-phone-storage-cleaner/id1510944943) | Удаление водяных знаков | Посмотреть |
-| 77 | [Miro Assist](https://miro.com/ai/) | Инструмент доски | Посмотреть |
-| 78 | [Soundraw](https://soundraw.io/) | Создание музыки | Посмотреть |
-| 79 | [Murf](https://murf.ai/) | Генерация аудио | Посмотреть |
-| 80 | [Humata](https://www.humata.ai/) | Инструмент чтения | Посмотреть |
-| 81 | [BigJPG](https://bigjpg.com/) | Генерация изображений | Посмотреть |
-| 82 | [Jasper AI](https://www.jasper.ai/) | Инструмент для письма | Посмотреть |
-| 83 | [FlexClip AI](https://www.flexclip.com/) | Генерация видео | Посмотреть |
-| 84 | [Zendesk AI](https://www.zendesk.com/service/ai/) | Инструмент поддержки | Посмотреть |
-| 85 | [Writer.com](https://writer.com/) | Инструмент для письма | Посмотреть |
-| 86 | [Motion](https://www.motion.ai/) | Генерация анимации | Посмотреть |
-| 87 | [Pictory](https://pictory.ai/) | Текст в видео | Посмотреть |
-| 88 | [Monday AI](https://monday.com/w/ai) | Управление проектами | Посмотреть |
-| 89 | [Autodraw](https://www.autodraw.com/) | Генерация изображений | Посмотреть |
-| 90 | [ClickUp Brain](https://clickup.com/ai) | Управление проектами | Посмотреть |
-| 91 | [Fireflies](https://fireflies.ai/) | Инструмент транскрипции | Посмотреть |
-| 92 | [Vance AI](https://vanceai.com/) | Генерация изображений | Посмотреть |
-| 93 | [Filmora](https://filmora.wondershare.com/) | Генерация видео | Посмотреть |
-| 94 | [Squarespace](https://www.squarespace.com/) | Генерация сайтов | Посмотреть |
-| 95 | [ProWritingAid](https://prowritingaid.com/) | Инструмент для письма | Посмотреть |
-| 96 | [Krisp](https://krisp.ai/) | Обработка аудио | Посмотреть |
-| 97 | [Durable](https://durable.co/) | Генерация сайтов | Посмотреть |
-| 98 | [Designs AI](https://designs.ai/) | Генерация изображений | Посмотреть |
-| 99 | [Zoho Zia](https://www.zoho.com/zia/) | Инструмент продуктивности | Посмотреть |
-| 100 | [Codeium](https://codeium.com/) | Инструмент программирования | Посмотреть |
+| №   | Название                                                                            | Область                     | Способ использования                                                                                   |
+| --- | ----------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1   | [ChatGPT](https://chat.openai.com/)                                                 | GPT                         | [Посмотреть](https://zhiblog.xyz/ru/docs/Руководство/Применения-искусственного-интеллекта/chatgpt/)    |
+| 2   | [Canva AI](https://www.canva.com/ai-image-generator/)                               | Генерация изображений       | Посмотреть                                                                                             |
+| 3   | [Google Gemini](https://gemini.google.com/app)                                      | GPT                         | Посмотреть                                                                                             |
+| 4   | [Perplexity AI](https://www.perplexity.ai/)                                         | Поиск                       | Посмотреть                                                                                             |
+| 5   | [Suno](https://suno.com/)                                                           | Генерация аудио             | Посмотреть                                                                                             |
+| 6   | [Quillbot](https://quillbot.com/)                                                   | Написание текстов           | Посмотреть                                                                                             |
+| 7   | [GitHub Copilot](https://github.com/features/copilot)                               | Программирование            | Посмотреть                                                                                             |
+| 8   | [Claude](https://claude.ai/new)                                                     | GPT                         | [Посмотреть](https://zhiblog.xyz/ai/1sj9492v/)                                                         |
+| 9   | [ElevenLabs](https://elevenlabs.io/)                                                | Генерация аудио             | Посмотреть                                                                                             |
+| 10  | [Poe](https://poe.com/login)                                                        | Агрегатор AI                | Посмотреть                                                                                             |
+| 11  | [Leonardo.AI](https://leonardo.ai/)                                                 | Генерация изображений       | Посмотреть                                                                                             |
+| 12  | [Midjourney](https://www.midjourney.com/home)                                       | Генерация изображений       | [Посмотреть](https://zhiblog.xyz/ru/docs/Руководство/Применения-искусственного-интеллекта/midjourney/) |
+| 13  | [Microsoft Copilot](https://copilot.microsoft.com/)                                 | GPT                         | Посмотреть                                                                                             |
+| 14  | [Grammarly AI](https://www.grammarly.com/ai-writing-assistant)                      | Написание текстов           | Посмотреть                                                                                             |
+| 15  | [Gamma AI](https://gamma.app/)                                                      | Генерация презентаций       | Посмотреть                                                                                             |
+| 16  | [Cutout.pro](https://www.cutout.pro/)                                               | Генерация изображений       | Посмотреть                                                                                             |
+| 17  | [Hugging Face](https://huggingface.co/)                                             | Программирование            | Посмотреть                                                                                             |
+| 18  | [PIXLR](https://pixlr.com/)                                                         | Генерация изображений       | Посмотреть                                                                                             |
+| 19  | [Liner](https://getliner.com/)                                                      | Поиск                       | Посмотреть                                                                                             |
+| 20  | [Photoroom](https://www.photoroom.com/)                                             | Генерация изображений       | Посмотреть                                                                                             |
+| 21  | [ideogram](https://ideogram.ai/login)                                               | Генерация изображений       | Посмотреть                                                                                             |
+| 22  | [Udio](https://www.udio.com/)                                                       | Генерация аудио             | Посмотреть                                                                                             |
+| 23  | [Adobe Firefly](https://www.adobe.com/products/firefly.html)                        | Генерация изображений       | Посмотреть                                                                                             |
+| 24  | [Invideo.io](https://invideo.io/)                                                   | Генерация видео             | Посмотреть                                                                                             |
+| 25  | [Veed.io](https://www.veed.io/)                                                     | Редактирование видео        | Посмотреть                                                                                             |
+| 26  | [Pi](https://pi.ai/onboarding)                                                      | GPT                         | Посмотреть                                                                                             |
+| 27  | [Blackbox](https://www.blackbox.ai/)                                                | Программирование            | Посмотреть                                                                                             |
+| 28  | [You](https://you.com/)                                                             | Поиск                       | Посмотреть                                                                                             |
+| 29  | [Replit](https://replit.com/)                                                       | Программирование            | Посмотреть                                                                                             |
+| 30  | [PicWish](https://picwish.com/)                                                     | Генерация изображений       | Посмотреть                                                                                             |
+| 31  | [ChatPDF](https://www.chatpdf.com/)                                                 | Чтение PDF                  | Посмотреть                                                                                             |
+| 32  | [FigJam AI](https://www.figma.com/figjam/ai/)                                       | Цифровая доска              | Посмотреть                                                                                             |
+| 33  | [PixelCut](https://www.pixelcut.ai/)                                                | Генерация изображений       | Посмотреть                                                                                             |
+| 34  | [Runway](https://runwayml.com/)                                                     | Генерация видео             | Посмотреть                                                                                             |
+| 35  | [OpusClip](https://www.opus.pro/)                                                   | Монтаж видео                | Посмотреть                                                                                             |
+| 36  | [Playground](https://playground.com/)                                               | Программирование            | Посмотреть                                                                                             |
+| 37  | [Vidnoz](https://www.vidnoz.com/)                                                   | Генерация видео             | Посмотреть                                                                                             |
+| 38  | [Speechify](https://speechify.com/)                                                 | Генерация речи              | Посмотреть                                                                                             |
+| 39  | [NovelAI](https://novelai.net/)                                                     | Генерация изображений       | Посмотреть                                                                                             |
+| 40  | [Notion AI](https://www.notion.so/zh-cn/product/ai)                                 | Инструмент для письма       | Посмотреть                                                                                             |
+| 41  | [Wix AI](https://www.wix.com/ai-website-builder)                                    | Генерация сайтов            | Посмотреть                                                                                             |
+| 42  | [Voicemod](https://www.voicemod.net/)                                               | Генерация аудио             | Посмотреть                                                                                             |
+| 43  | [HeyGen](https://www.heygen.com/)                                                   | Генерация видео             | Посмотреть                                                                                             |
+| 44  | [Natural Readers](https://www.naturalreaders.com/)                                  | Инструмент чтения           | Посмотреть                                                                                             |
+| 45  | [Otter.ai](https://otter.ai/)                                                       | Запись встреч               | Посмотреть                                                                                             |
+| 46  | [Stability AI](https://stability.ai/)                                               | 3D / генерация изображений  | Посмотреть                                                                                             |
+| 47  | [LogoAI](https://www.logoai.com/)                                                   | Генерация логотипов         | Посмотреть                                                                                             |
+| 48  | [Notta](https://www.notta.ai/en)                                                    | Запись встреч               | Посмотреть                                                                                             |
+| 49  | [Craiyon](https://www.craiyon.com/)                                                 | Генерация изображений       | Посмотреть                                                                                             |
+| 50  | [Synthesia](https://www.synthesia.io/)                                              | Генерация видео             | Посмотреть                                                                                             |
+| 51  | [Looka](https://looka.com/)                                                         | Генерация логотипов         | Посмотреть                                                                                             |
+| 52  | [Simplified](https://simplified.com/)                                               | Инструмент для письма       | Посмотреть                                                                                             |
+| 53  | [Writesonic](https://writesonic.com/)                                               | Инструмент для письма       | Посмотреть                                                                                             |
+| 54  | [PlayHT](https://play.ht/)                                                          | Генерация речи              | Посмотреть                                                                                             |
+| 55  | [Salesforce Einstein](https://www.salesforce.com/artificial-intelligence/)          | GPT                         | Посмотреть                                                                                             |
+| 56  | [Lexica](https://lexica.art/)                                                       | Генерация изображений       | Посмотреть                                                                                             |
+| 57  | [Media.io](https://www.media.io/)                                                   | Генерация видео             | Посмотреть                                                                                             |
+| 58  | [Visme](https://www.visme.co/)                                                      | Генерация изображений       | Посмотреть                                                                                             |
+| 59  | [SnapEdit](https://snapedit.app/)                                                   | Генерация изображений       | Посмотреть                                                                                             |
+| 60  | [Phind](https://www.phind.com/search?home=true)                                     | Поиск по программированию   | Посмотреть                                                                                             |
+| 61  | [Tome](https://tome.app/)                                                           | Инструмент дизайна          | Посмотреть                                                                                             |
+| 62  | [Typeset](https://www.typeset.com/)                                                 | Текстовый инструмент        | Посмотреть                                                                                             |
+| 63  | [Kapwing](https://www.kapwing.com/)                                                 | Генерация видео             | Посмотреть                                                                                             |
+| 64  | [Consensus](https://consensus.app/)                                                 | Поисковый инструмент        | Посмотреть                                                                                             |
+| 65  | [Mistral Le Chat](https://chat.mistral.ai/chat)                                     | GPT                         | Посмотреть                                                                                             |
+| 66  | [Fliki](https://fliki.ai/)                                                          | Генерация видео             | Посмотреть                                                                                             |
+| 67  | [Tactiq](https://tactiq.io/)                                                        | Запись встреч               | Посмотреть                                                                                             |
+| 68  | [Remini](https://remini.ai/)                                                        | Генерация изображений       | Посмотреть                                                                                             |
+| 69  | [Riverside](https://riverside.fm/)                                                  | Инструмент транскрипции     | Посмотреть                                                                                             |
+| 70  | [Pika](https://pika.art/home)                                                       | Генерация видео             | [Посмотреть](https://zhiblog.xyz/ai/6sj9392v/)                                                         |
+| 71  | [Descript](https://www.descript.com/)                                               | Инструмент транскрипции     | Посмотреть                                                                                             |
+| 72  | [Replicate](https://replicate.com/)                                                 | Агрегатор                   | Посмотреть                                                                                             |
+| 73  | [Asana AI](https://asana.com/)                                                      | Управление проектами        | Посмотреть                                                                                             |
+| 74  | [Wordtune](https://www.wordtune.com/)                                               | Инструмент для письма       | Посмотреть                                                                                             |
+| 75  | [Copy.ai](https://www.copy.ai/)                                                     | Инструмент для письма       | Посмотреть                                                                                             |
+| 76  | [CleanUp](https://apps.apple.com/us/app/cleanup-phone-storage-cleaner/id1510944943) | Удаление водяных знаков     | Посмотреть                                                                                             |
+| 77  | [Miro Assist](https://miro.com/ai/)                                                 | Инструмент доски            | Посмотреть                                                                                             |
+| 78  | [Soundraw](https://soundraw.io/)                                                    | Создание музыки             | Посмотреть                                                                                             |
+| 79  | [Murf](https://murf.ai/)                                                            | Генерация аудио             | Посмотреть                                                                                             |
+| 80  | [Humata](https://www.humata.ai/)                                                    | Инструмент чтения           | Посмотреть                                                                                             |
+| 81  | [BigJPG](https://bigjpg.com/)                                                       | Генерация изображений       | Посмотреть                                                                                             |
+| 82  | [Jasper AI](https://www.jasper.ai/)                                                 | Инструмент для письма       | Посмотреть                                                                                             |
+| 83  | [FlexClip AI](https://www.flexclip.com/)                                            | Генерация видео             | Посмотреть                                                                                             |
+| 84  | [Zendesk AI](https://www.zendesk.com/service/ai/)                                   | Инструмент поддержки        | Посмотреть                                                                                             |
+| 85  | [Writer.com](https://writer.com/)                                                   | Инструмент для письма       | Посмотреть                                                                                             |
+| 86  | [Motion](https://www.motion.ai/)                                                    | Генерация анимации          | Посмотреть                                                                                             |
+| 87  | [Pictory](https://pictory.ai/)                                                      | Текст в видео               | Посмотреть                                                                                             |
+| 88  | [Monday AI](https://monday.com/w/ai)                                                | Управление проектами        | Посмотреть                                                                                             |
+| 89  | [Autodraw](https://www.autodraw.com/)                                               | Генерация изображений       | Посмотреть                                                                                             |
+| 90  | [ClickUp Brain](https://clickup.com/ai)                                             | Управление проектами        | Посмотреть                                                                                             |
+| 91  | [Fireflies](https://fireflies.ai/)                                                  | Инструмент транскрипции     | Посмотреть                                                                                             |
+| 92  | [Vance AI](https://vanceai.com/)                                                    | Генерация изображений       | Посмотреть                                                                                             |
+| 93  | [Filmora](https://filmora.wondershare.com/)                                         | Генерация видео             | Посмотреть                                                                                             |
+| 94  | [Squarespace](https://www.squarespace.com/)                                         | Генерация сайтов            | Посмотреть                                                                                             |
+| 95  | [ProWritingAid](https://prowritingaid.com/)                                         | Инструмент для письма       | Посмотреть                                                                                             |
+| 96  | [Krisp](https://krisp.ai/)                                                          | Обработка аудио             | Посмотреть                                                                                             |
+| 97  | [Durable](https://durable.co/)                                                      | Генерация сайтов            | Посмотреть                                                                                             |
+| 98  | [Designs AI](https://designs.ai/)                                                   | Генерация изображений       | Посмотреть                                                                                             |
+| 99  | [Zoho Zia](https://www.zoho.com/zia/)                                               | Инструмент продуктивности   | Посмотреть                                                                                             |
+| 100 | [Codeium](https://codeium.com/)                                                     | Инструмент программирования | Посмотреть                                                                                             |
 
 ### Посмотреть больше AI-приложений и продуктов на базе больших моделей
 
