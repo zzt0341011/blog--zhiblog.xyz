@@ -1,6 +1,6 @@
 ---
-title: Claude User Guide
-description: Complete tutorial on how to subscribe to Claude Pro and Claude Team, including pricing, multi-device login, exclusive accounts, password changes, and full usage process to help you get started with Claude AI quickly.
+title: "Claude User Guide"
+description: "Complete tutorial on how to subscribe to Claude Pro and Claude Team, including pricing, multi-device login, exclusive accounts, password changes, and full usage process to help you get started with Claude AI quickly."
 bookCollapseSection: true
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Claude 使用指南
-description: 详细教程：如何订阅 Claude 专业版（Claude Pro）和 Team 版本，包含价格对比、多设备登录、独享账号、密码修改及完整使用流程，助你快速上手 Claude AI。
+title: "Claude 使用指南"
+description: "详细教程：如何订阅 Claude 专业版（Claude Pro）和 Team 版本，包含价格对比、多设备登录、独享账号、密码修改及完整使用流程，助你快速上手 Claude AI。"
 bookCollapseSection: true
 ---
 
