@@ -1,5 +1,5 @@
 ---
-title: "安卓手机下载和注册 Muse APK 完整教程（2026）"
+title: "安卓手机muse注册指南"
 description: "详细图文教程：在安卓手机上下载 Meta Muse APK、使用代理连接美国节点，以及完成账号注册与年龄验证。包含网盘下载、Google Play 链接和虚拟卡推荐。"
 keywords:
   - Muse APK
