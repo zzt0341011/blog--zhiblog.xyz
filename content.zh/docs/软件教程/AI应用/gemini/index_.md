@@ -83,30 +83,65 @@ Google 在部分国家和地区推出学生优惠活动。符合官方条件的�
 
 学生验证是否成功、需要哪些材料以及审核时间，均以验证页面的实际提示为准。不要购买所谓的学生认证码，也不要借用或伪造他人身份资料。
 
-### 第四步：检查优惠内容和付款要求
+#### 1、利用telegram进行学生验证
 
-验证通过后，仔细核对订阅页面展示的内容：
+- 打开telegram群：https://t.me/gemin_sheerid_pass_bot?start=ref_1901093081
+- 按照提示操作--选择中国--加入群组
 
-- 订阅计划名称
-- 免费优惠期限
-- 当前应支付金额
-- 付款方式要求
-- 免费期结束后的续费价格与日期
-- 取消订阅的具体方法
 
-如果页面要求添加付款方式，请确保你使用的付款方式符合 Google 的要求，并且你了解后续续费规则。不要使用来源不明的虚拟卡或支付账户。
+![gemini-1-1005.png](https://zhiblog.xyz/img/gemini-1-1005.png)
 
-![订阅页面参考](https://zhiblog.xyz/img/gemini-1-10093.png)
+- 来到这个页面，用支付宝或者usdt进行付款，购买验证卡密
 
-### 第五步：确认订阅并查看权益
+![gemini-1-1007.png](https://zhiblog.xyz/img/gemini-1-1007.png)
 
-在确认页面明确显示符合你的预期优惠后，再完成订阅。成功后，可以在 Google 账号的订阅管理页面查看当前计划、有效期、续费信息和取消入口。
+- 购买完成以后，按照提示，发送学生验证的网页链接
 
-![订阅确认参考](https://zhiblog.xyz/img/gemini-1-10094.png)
+![gemini-1-1008.png](https://zhiblog.xyz/img/gemini-1-1008.png)
+![gemini-1-1009.png](https://zhiblog.xyz/img/gemini-1-1009.png)
 
-![Google AI 订阅权益参考](https://zhiblog.xyz/img/gemini-1-10097.png)
+- 聊天框发送认证链接以后，耐心等待处理中
 
-![订阅功能参考](https://zhiblog.xyz/img/gemini-1-10098.png)
+![gemini-1-10092.png](https://zhiblog.xyz/img/gemini-1-10092.png)
+
+- 处理完成以后，会看到一个完成的链接，我们复制并且打开链接即可
+- 我们在浏览器打开链接，即可看到我们的学生认证已经通过
+- 下一步会提示输入付款信息，我们先择信用卡
+- 如果有海外信用卡，在这里输入信用卡信息即可
+
+
+
+
+![gemini-1-10093.png](https://zhiblog.xyz/img/gemini-1-10093.png)
+
+- 如果没有海外信用卡，则需要申请一个
+- 以下几个网址可以申请美国信用卡
+- 我用gate交易所的vsia卡100%能通过验证
+
+1、[gate交易所](https://www.gate.com/zh/referral/earn-together/invite/AgBHVgtf?ref=AgBHVgtf&ref_type=103&utm_cmp=rXJBDjtJ&activity_id=1793698296259)
+2、[wasa信用U卡](https://1.jnk.ink/hpLBx)
+3、[dog信用卡](https://dogpay.com/us/register?reffercode=21872052)
+
+#### 2、0元订阅12个月google pro
+
+- 学生认证、绑卡成功以后
+- 用0元订阅google pro,点击订阅
+
+
+![gemini-1-10094.png](https://zhiblog.xyz/img/gemini-1-10094.png)
+
+#### 3、订阅成功以后，出现欢迎提示
+
+- 相比免费版，学生版有很多的优势
+
+
+![gemini-1-10097.png](https://zhiblog.xyz/img/gemini-1-10097.png)
+![gemini-1-10098.png](https://zhiblog.xyz/img/gemini-1-10098.png)
+
+
+
+
+
 
 ## 常见问题（FAQ）
 
