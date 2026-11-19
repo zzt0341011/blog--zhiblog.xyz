@@ -84,56 +84,56 @@ Select the student offer and read the eligibility information. If Google directs
 
 Required documents, verification results, and processing times depend on the verification page. Do not buy verification codes or use fabricated or borrowed student information.
 
-#### 5、利用telegram进行学生验证
+#### 5、Using Telegram for student verification
 
-- 打开telegram群：https://t.me/gemin_sheerid_pass_bot?start=ref_1901093081
-- 按照提示操作--选择中国--加入群组
+- Open the Telegram group：https://t.me/gemin_sheerid_pass_bot?start=ref_1901093081
+- Follow the prompts—select China—join the group
 
 
 ![gemini-1-1005.png](https://zhiblog.xyz/img/gemini-1-1005.png)
 
-- 来到这个页面，用支付宝或者usdt进行付款，购买验证卡密
+- On this page, pay with Alipay or USDT to purchase a verification card.
 
 ![gemini-1-1007.png](https://zhiblog.xyz/img/gemini-1-1007.png)
 
-- 购买完成以后，按照提示，发送学生验证的网页链接
+- Once the purchase is complete, follow the prompts to send the webpage link for student verification.
 
 ![gemini-1-1008.png](https://zhiblog.xyz/img/gemini-1-1008.png)
 ![gemini-1-1009.png](https://zhiblog.xyz/img/gemini-1-1009.png)
 
-- 聊天框发送认证链接以后，耐心等待处理中
+- After sending the verification link in the chat box, please wait patiently while it is being processed.
 
 ![gemini-1-10092.png](https://zhiblog.xyz/img/gemini-1-10092.png)
 
-- 处理完成以后，会看到一个完成的链接，我们复制并且打开链接即可
-- 我们在浏览器打开链接，即可看到我们的学生认证已经通过
-- 下一步会提示输入付款信息，我们先择信用卡
-- 如果有海外信用卡，在这里输入信用卡信息即可
+- Once the process is complete, you will see a link; simply copy and open it.
+- After opening the link in your browser, you will be able to see that your student verification has been approved.
+- The next step will prompt you to enter payment information; select "credit card."
+- If you have an international credit card, enter your card details here.
 
 
 
 
 ![gemini-1-10093.png](https://zhiblog.xyz/img/gemini-1-10093.png)
 
-- 如果没有海外信用卡，则需要申请一个
-- 以下几个网址可以申请美国信用卡
-- 我用gate交易所的vsia卡100%能通过验证
+- If you do not have an overseas credit card, you will need to apply for one.
+- You can apply for a U.S. credit card through the following websites.
+- I use the Visa card from the Gate exchange, and it passes verification 100% of the time.
 
-1、[gate交易所](https://www.gate.com/zh/referral/earn-together/invite/AgBHVgtf?ref=AgBHVgtf&ref_type=103&utm_cmp=rXJBDjtJ&activity_id=1793698296259)
-2、[wasa信用U卡](https://1.jnk.ink/hpLBx)
-3、[dog信用卡](https://dogpay.com/us/register?reffercode=21872052)
+1、[Gate exchange](https://www.gate.com/zh/referral/earn-together/invite/AgBHVgtf?ref=AgBHVgtf&ref_type=103&utm_cmp=rXJBDjtJ&activity_id=1793698296259)
+2、[Wasa Credit U Card](https://1.jnk.ink/hpLBx)
+3、[Dog credit card](https://dogpay.com/us/register?reffercode=21872052)
 
-#### 6、0元订阅12个月google pro
+#### 6、Get a 12-month Google Pro subscription for $0
 
-- 学生认证、绑卡成功以后
-- 用0元订阅google pro,点击订阅
+- After student verification and card linking are successfully completed
+- Subscribe to Google Pro for $0—click to subscribe.
 
 
 ![gemini-1-10094.png](https://zhiblog.xyz/img/gemini-1-10094.png)
 
-#### 7、订阅成功以后，出现欢迎提示
+#### 7、A welcome message appears after a successful subscription.
 
-- 相比免费版，学生版有很多的优势
+- Compared to the free version, the student version has many advantages.
 
 
 ![gemini-1-10097.png](https://zhiblog.xyz/img/gemini-1-10097.png)
