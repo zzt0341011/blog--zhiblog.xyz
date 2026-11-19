@@ -3,6 +3,7 @@ title: "如何免费获得一年 Google AI Pro（Gemini Pro）？2026 学生优�
 description: "详细介绍 Google Gemini 与 Google AI Pro 的区别、学生免费优惠资格、SheerID 官方验证流程、订阅步骤及常见问题。优惠以 Google 官方页面实际显示为准。"
 date: 2026-11-19
 slug: "free-google-ai-pro-one-year-student"
+bookCollapseSection: true
 keywords:
   - Gemini Pro 免费一年
   - Google AI Pro 学生优惠
